@@ -3,7 +3,7 @@
 	--test: rgb(200,50,50);
 }
 
-body {
+body, html {
 	background: var(--black);
 	font-family: Verdana, sans-serif;
 	color: white;
